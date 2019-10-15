@@ -9,7 +9,8 @@ int main()
   scanf("%lf", &b);
 
   printf("Geld pro Person: %lf\n", a/b);
-  return 0;
+ 
 
 //ihopethiscommentwontcauseacollision
+ return 0;
 }
