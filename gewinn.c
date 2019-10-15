@@ -7,7 +7,7 @@ int main()
 
   scanf("%lf", &a);
   scanf("%lf", &b);
-
+  //collisioncomment
   printf("Geld pro Person: %lf\n", a/b);
   return 0;
 
