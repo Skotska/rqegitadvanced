@@ -11,4 +11,5 @@ int main()
   printf("Geld pro Person: %lf\n", a/b);
   return 0;
 
+//ihopethiscommentwontcauseacollision
 }
